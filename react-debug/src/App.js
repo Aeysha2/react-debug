@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import Profile from "./profile";  // correction import
+import Profile from "./profile";
 import mbappe from "./images/mbappe.jpg";
 
 class App extends Component {
